@@ -31,6 +31,11 @@
         "id": 6,
         "data": "2023-11-15",
         "resumo": "Configuração do Git LFS (Large File Storage) para gerenciar arquivos grandes como modelos 3D, texturas, áudios e arquivos específicos do Unity. Criação de documentação sobre o uso do Git LFS no projeto."
+      },
+      {
+        "id": 7,
+        "data": "2023-11-15",
+        "resumo": "Inicialização do Git LFS no repositório para permitir o versionamento de arquivos grandes. Verificação da instalação e configuração do Git LFS."
       }
     ]
   },
@@ -133,6 +138,14 @@
         {
           "id": "2e25fc4",
           "mensagem": "Adiciona configuração do Git LFS para arquivos grandes"
+        },
+        {
+          "id": "d17f629",
+          "mensagem": "Atualiza arquivo de memória com informações sobre Git LFS"
+        },
+        {
+          "id": "a352994",
+          "mensagem": "Inicializa Git LFS no repositório"
         }
       ]
     }
