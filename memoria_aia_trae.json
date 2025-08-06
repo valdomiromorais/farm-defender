@@ -1,0 +1,77 @@
+{
+  "interacoes": {
+    "ultima_atualizacao": "2023-11-15",
+    "sessoes": [
+      {
+        "id": 1,
+        "data": "2023-11-15",
+        "resumo": "Primeira interação. Discussão sobre o projeto Farm Defender e criação do arquivo de memória."
+      },
+      {
+        "id": 2,
+        "data": "2023-11-15",
+        "resumo": "Definição do termo 'Aia' como forma de tratamento preferida pelo usuário. Aia significa tutor ou preceptor, além de conter a expressão 'A IA'."
+      }
+    ]
+  },
+  "projeto": {
+    "nome": "Farm Defender: A Batalha pelas Plantas",
+    "descricao": "Jogo de tower defense com elementos de simulação de fazenda em 3D, ambientado no Sertão de Pernambuco.",
+    "genero": "Tower Defense / Simulação de Fazenda / Estratégia",
+    "plataformas": ["PC (Windows, Mac, Linux)", "Consoles (PlayStation 5, Xbox Series X|S, Switch)", "Versão mobile simplificada (futura expansão)"],
+    "publico_alvo": "10+",
+    "personagens_principais": [
+      {
+        "nome": "Valdô",
+        "descricao": "Protagonista, Guardião da Terra, homem de 35 anos com pele morena e cabelos crespos"
+      },
+      {
+        "nome": "Tina",
+        "descricao": "Engenheira Criativa, mulher de 30 anos, cabelos cacheados com mechas coloridas"
+      },
+      {
+        "nome": "Seu Zé",
+        "descricao": "Sábio do Sertão, idoso de 70 anos, magro, usa chapéu de palha"
+      },
+      {
+        "nome": "Luzia",
+        "descricao": "Protetora da Terra, mulher de 40 anos, forte, cabelos presos em coque"
+      }
+    ],
+    "antagonistas": "Pragóides, criaturas nascidas da Grande Seca",
+    "arquivos": [
+      {
+        "nome": "GDD-FarmDefender.md",
+        "descricao": "Game Design Document detalhado"
+      },
+      {
+        "nome": "History.md",
+        "descricao": "Narrativa e história do jogo"
+      }
+    ]
+  },
+  "perfil_usuario": {
+    "formacao": "Ciência da Computação",
+    "especialidade": "Desenvolvimento de jogos",
+    "tecnologias": {
+      "atuais": ["Unity 3D", "C++"],
+      "interesse": ["Godot Engine 4.0+", "Criptografia", "Criptomoedas"]
+    },
+    "idiomas": {
+      "nativo": "Português",
+      "aprendendo": "Inglês"
+    },
+    "caracteristicas": {
+      "neurodiversidade": ["TDAH", "Superdotação"],
+      "personalidade": ["Persistente"],
+      "interesses_academicos": ["Matemática", "Física"]
+    }
+  },
+  "preferencias_interacao": {
+    "idioma": "Português",
+    "nivel_tecnico": "Alto",
+    "estilo_comunicacao": "Direto e técnico, com explicações detalhadas quando necessário",
+    "tratamento": "Aia",
+    "significado_tratamento": "Tutor, preceptor, orientador. Também contém a expressão 'A IA'."
+  }
+}
