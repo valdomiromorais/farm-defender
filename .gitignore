@@ -27,6 +27,7 @@ yarn-error.log*
 .env.production.local
 
 # Arquivos específicos de Unity
+# Diretórios
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
@@ -34,6 +35,12 @@ yarn-error.log*
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/[Aa]ssets/AssetStoreTools*
+/[Aa]ssets/Plugins/Editor/JetBrains*
+
+# Arquivos de cache
 *.pidb
 *.booproj
 *.svd
@@ -41,6 +48,34 @@ yarn-error.log*
 *.mdb
 *.opendb
 *.VC.db
+
+# Arquivos de Unity3D gerados
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Crash reports
+sysinfo.txt
+
+# Builds
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# Crashlytics
+crashlytics-build.properties
 
 # Arquivos específicos de Godot
 .import/
@@ -62,6 +97,13 @@ data_*/
 *.a
 *.la
 *.lo
+
+# Arquivos específicos do Blender
+*.blend1
+*.blend2
+*.blend3
+*.blend4
+*.blend5
 
 # Outros arquivos que não devem ser versionados
 *.bak
