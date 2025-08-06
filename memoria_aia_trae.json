@@ -1,6 +1,6 @@
 {
   "interacoes": {
-    "ultima_atualizacao": "2023-11-15",
+    "ultima_atualizacao": "2025-01-06",
     "sessoes": [
       {
         "id": 1,
@@ -36,6 +36,11 @@
         "id": 7,
         "data": "2023-11-15",
         "resumo": "Inicialização do Git LFS no repositório para permitir o versionamento de arquivos grandes. Verificação da instalação e configuração do Git LFS."
+      },
+      {
+        "id": 8,
+        "data": "2025-01-06",
+        "resumo": "Usuário compartilhou informações pessoais detalhadas sobre formação, interesses, características pessoais e objetivos profissionais. Solicitou criação/atualização do arquivo de memória para preservar contexto entre sessões."
       }
     ]
   },
@@ -151,20 +156,30 @@
     }
   },
   "perfil_usuario": {
-    "formacao": "Ciência da Computação",
+    "formacao": "Ciência da Computação (CC)",
     "especialidade": "Desenvolvimento de jogos",
     "tecnologias": {
-      "atuais": ["Unity 3D", "C++"],
-      "interesse": ["Godot Engine 4.0+", "Criptografia", "Criptomoedas"]
+      "paixao_atual": "Unity 3D (ama trabalhar com esta engine)",
+      "atuais": ["Unity 3D", "C++ (programação de sistemas básicos)"],
+      "transicao": "Movendo os olhos para Godot Engine 4.0+",
+      "interesse": ["Criptografia", "Criptomoedas"]
     },
     "idiomas": {
       "nativo": "Português",
-      "aprendendo": "Inglês"
+      "aprendendo": "Inglês (objetivo: atender clientes dos EUA)"
     },
     "caracteristicas": {
-      "neurodiversidade": ["TDAH", "Superdotação"],
+      "neurodiversidade": ["TDAH", "Superdotação (Dupla Excepcionalidade)"],
       "personalidade": ["Persistente"],
-      "interesses_academicos": ["Matemática", "Física"]
+      "observacao_pessoal": "As excepcionalidades complicam um pouco as coisas",
+      "interesses_academicos": [
+        "Matemática (gosta de estudar, apesar de não ser excepcional)",
+        "Física (gosta de estudar, apesar de não ser excepcional)"
+      ]
+    },
+    "objetivos_profissionais": {
+      "expansao_mercado": "Atender clientes internacionais, especialmente dos EUA",
+      "transicao_tecnologica": "Migrar gradualmente de Unity 3D para Godot Engine 4.0+"
     }
   },
   "preferencias_interacao": {

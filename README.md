@@ -26,13 +26,13 @@ Farm Defender é um jogo de tower defense com elementos de simulação de fazend
 
 ## Equipe de Desenvolvimento
 
-- Desenvolvedor Principal: [Seu Nome]
-- Design de Jogo: [Seu Nome]
-- Narrativa: [Seu Nome]
+- Desenvolvedor Principal: Valdomiro A. M. de Morais
+- Design de Jogo: Valdomiro A. M. de Morais
+- Narrativa: Valdomiro A. M. de Morais
 
 ## Licença
 
-Todos os direitos reservados © 2023
+MIT License © 2025
 
 ---
 
