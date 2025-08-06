@@ -21,8 +21,8 @@ Farm Defender é um jogo de tower defense com elementos de simulação de fazend
 
 ## Documentação
 
-- [Game Design Document](./GDD-FarmDefender.md) - Documento detalhado de design do jogo
-- [História](./History.md) - Narrativa e lore do universo de Farm Defender
+- [Game Design Document](./farm_defender_docs/GDD-FarmDefender.md) - Documento detalhado de design do jogo
+- [História](./farm_defender_docs//History.md) - Narrativa e lore do universo de Farm Defender
 
 ## Equipe de Desenvolvimento
 
