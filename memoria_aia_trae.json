@@ -21,6 +21,11 @@
         "id": 4,
         "data": "2023-11-15",
         "resumo": "Criação da estrutura de diretórios do projeto: farm_defender_3d_models para modelos Blender, farm_defender_unity para o projeto Unity e farm_defender_docs para documentação. Movimentação dos arquivos de documentação para o diretório apropriado."
+      },
+      {
+        "id": 5,
+        "data": "2023-11-15",
+        "resumo": "Atualização do arquivo .gitignore para incluir regras mais específicas para Unity e Blender, garantindo que arquivos temporários não sejam versionados."
       }
     ]
   },
@@ -78,7 +83,7 @@
       },
       {
         "nome": ".gitignore",
-        "descricao": "Configuração de arquivos a serem ignorados pelo Git"
+        "descricao": "Configuração de arquivos a serem ignorados pelo Git, incluindo regras específicas para Unity e Blender"
       }
     ],
     "controle_versao": {
@@ -103,6 +108,14 @@
         {
           "id": "bb5c94b",
           "mensagem": "Cria estrutura de diretórios para modelos 3D, projeto Unity e documentação"
+        },
+        {
+          "id": "189b984",
+          "mensagem": "Atualiza arquivo de memória com informações sobre a estrutura de diretórios"
+        },
+        {
+          "id": "fadc461",
+          "mensagem": "Atualiza .gitignore com regras mais específicas para Unity e Blender"
         }
       ]
     }
