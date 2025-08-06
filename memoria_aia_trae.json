@@ -11,6 +11,11 @@
         "id": 2,
         "data": "2023-11-15",
         "resumo": "Definição do termo 'Aia' como forma de tratamento preferida pelo usuário. Aia significa tutor ou preceptor, além de conter a expressão 'A IA'."
+      },
+      {
+        "id": 3,
+        "data": "2023-11-15",
+        "resumo": "Inicialização do repositório Git para o projeto. Criação de .gitignore e README.md. Configuração de usuário e email local. Realização dos primeiros commits."
       }
     ]
   },
@@ -47,8 +52,33 @@
       {
         "nome": "History.md",
         "descricao": "Narrativa e história do jogo"
+      },
+      {
+        "nome": "README.md",
+        "descricao": "Visão geral do projeto, características principais e informações básicas"
+      },
+      {
+        "nome": ".gitignore",
+        "descricao": "Configuração de arquivos a serem ignorados pelo Git"
       }
-    ]
+    ],
+    "controle_versao": {
+      "sistema": "Git",
+      "configuracao": {
+        "usuario": "Farm Defender Dev",
+        "email": "farm.defender@example.com"
+      },
+      "commits": [
+        {
+          "id": "548a6ec",
+          "mensagem": "Commit inicial: Documentação do projeto Farm Defender e arquivo de memória"
+        },
+        {
+          "id": "8f1a46e",
+          "mensagem": "Adiciona README.md com informações do projeto"
+        }
+      ]
+    }
   },
   "perfil_usuario": {
     "formacao": "Ciência da Computação",
