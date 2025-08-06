@@ -16,6 +16,11 @@
         "id": 3,
         "data": "2023-11-15",
         "resumo": "Inicialização do repositório Git para o projeto. Criação de .gitignore e README.md. Configuração de usuário e email local. Realização dos primeiros commits."
+      },
+      {
+        "id": 4,
+        "data": "2023-11-15",
+        "resumo": "Criação da estrutura de diretórios do projeto: farm_defender_3d_models para modelos Blender, farm_defender_unity para o projeto Unity e farm_defender_docs para documentação. Movimentação dos arquivos de documentação para o diretório apropriado."
       }
     ]
   },
@@ -44,13 +49,27 @@
       }
     ],
     "antagonistas": "Pragóides, criaturas nascidas da Grande Seca",
+    "estrutura_diretorios": [
+      {
+        "nome": "farm_defender_3d_models",
+        "descricao": "Diretório para armazenar modelos 3D criados no Blender"
+      },
+      {
+        "nome": "farm_defender_unity",
+        "descricao": "Diretório para o projeto Unity"
+      },
+      {
+        "nome": "farm_defender_docs",
+        "descricao": "Diretório para documentação do projeto"
+      }
+    ],
     "arquivos": [
       {
-        "nome": "GDD-FarmDefender.md",
+        "nome": "farm_defender_docs/GDD-FarmDefender.md",
         "descricao": "Game Design Document detalhado"
       },
       {
-        "nome": "History.md",
+        "nome": "farm_defender_docs/History.md",
         "descricao": "Narrativa e história do jogo"
       },
       {
@@ -76,6 +95,14 @@
         {
           "id": "8f1a46e",
           "mensagem": "Adiciona README.md com informações do projeto"
+        },
+        {
+          "id": "25ad2f8",
+          "mensagem": "Atualiza arquivo de memória com informações sobre o repositório Git"
+        },
+        {
+          "id": "bb5c94b",
+          "mensagem": "Cria estrutura de diretórios para modelos 3D, projeto Unity e documentação"
         }
       ]
     }
