@@ -26,6 +26,11 @@
         "id": 5,
         "data": "2023-11-15",
         "resumo": "Atualização do arquivo .gitignore para incluir regras mais específicas para Unity e Blender, garantindo que arquivos temporários não sejam versionados."
+      },
+      {
+        "id": 6,
+        "data": "2023-11-15",
+        "resumo": "Configuração do Git LFS (Large File Storage) para gerenciar arquivos grandes como modelos 3D, texturas, áudios e arquivos específicos do Unity. Criação de documentação sobre o uso do Git LFS no projeto."
       }
     ]
   },
@@ -84,6 +89,14 @@
       {
         "nome": ".gitignore",
         "descricao": "Configuração de arquivos a serem ignorados pelo Git, incluindo regras específicas para Unity e Blender"
+      },
+      {
+        "nome": ".gitattributes",
+        "descricao": "Configuração do Git LFS para gerenciar arquivos grandes como modelos 3D, texturas e arquivos do Unity"
+      },
+      {
+        "nome": "farm_defender_docs/GIT_LFS.md",
+        "descricao": "Documentação sobre como usar o Git LFS no projeto, incluindo instalação, configuração e boas práticas"
       }
     ],
     "controle_versao": {
@@ -116,6 +129,10 @@
         {
           "id": "fadc461",
           "mensagem": "Atualiza .gitignore com regras mais específicas para Unity e Blender"
+        },
+        {
+          "id": "2e25fc4",
+          "mensagem": "Adiciona configuração do Git LFS para arquivos grandes"
         }
       ]
     }
